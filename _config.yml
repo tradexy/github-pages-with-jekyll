@@ -8,7 +8,7 @@ DevOps using Microsoft, Azure and other DevOp practices.
 Firstly speak to colleagues and users to appreciate DevOps.
 
 # social links
-twitter_username: tradexy # DO NOT include the @ character, or else the build will fail!
-github_username:  tradexy # DO NOT include the @ character, or else the build will fail!
+twitter_username: tradexy 
+github_username:  tradexy 
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: true 
