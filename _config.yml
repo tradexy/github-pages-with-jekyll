@@ -2,10 +2,7 @@ theme: minima
 title: Learn DevOps with JohnM
 author: JohnM
 email: tradexy@gmail.com
-description: 
-We will use this GitHub Jekyll page to learn and learn DevOps.
-DevOps using Microsoft, Azure and other DevOp practices.
-Firstly speak to colleagues and users to appreciate DevOps.
+description: We will use this GitHub Jekyll page to learn and learn DevOps. DevOps using Microsoft, Azure and other DevOp practices. Firstly speak to colleagues and users to appreciate DevOps.
 
 twitter_username: tradexy 
 github_username:  tradexy 
